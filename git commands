@@ -1,0 +1,15 @@
+Git commands :
+
+git clone <git repository url>.  ---> clona una repository
+
+
+da dentro la cartella github di lavoro:
+
+git pull ----> scarica gli aggiornamenti e nuovi file della cartella e la mette up to date con quella online
+
+git add <nome file> 
+git commit -m "messaggio del commit"
+git push 
+
+con questi 3 comandi insieme e possibile aggiungere file alla cartella online
+Fine
