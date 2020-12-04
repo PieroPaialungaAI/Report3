@@ -21,7 +21,7 @@ The three component P.C.A. dataset has been here used to perform a non linear Su
 The three component P.C.A. dataset has been here used to perform a non linear Support Vector Machine Algorithm for three classes classification
 ## 7.DecisionTree.ipynb
 In this notebook, the decision Tree and Random Forest approach has been used to perform a three classes classification algorithm, hyperparameters tuning has been made in order to get the best random forest algorithm
-## 7. Classification.ipynb
+## 8. Classification.ipynb
 The best hypertuned SVM algorithm coming from the previous notebooks has been used to perform a first classification. Then this classification has been bosted by performing the best Random Forest algorithm from the previous notebook, that has been applied in the most wrong prediction area of the Support Vector Machine algorithm. A total of 82% of accuracy has been obtained.
 
 Chierichini Simone
