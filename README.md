@@ -28,6 +28,6 @@ The best hypertuned SVM algorithm coming from the previous notebooks has been us
 ## Report3_group1.pdf
 The Report
 
-The dataset is the same as Report 1 found \href{https://github.com/PieroPaialungaAI/Report1}{in this GitHub repository}
+The dataset is the same as Report 1 found [in this GitHub repository](https://github.com/PieroPaialungaAI/Report1)
 Chierichini Simone
 Paialunga Piero
