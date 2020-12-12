@@ -24,5 +24,10 @@ In this notebook, the decision Tree and Random Forest approach has been used to 
 ## 8. Classification.ipynb
 The best hypertuned SVM algorithm coming from the previous notebooks has been used to perform a first classification. Then this classification has been bosted by performing the best Random Forest algorithm from the previous notebook, that has been applied in the most wrong prediction area of the Support Vector Machine algorithm. A total of 82% of accuracy has been obtained.
 
+# In addiction:
+## Report3_group1.pdf
+The Report
+
+The dataset is the same as Report 1 found \href{https://github.com/PieroPaialungaAI/Report1}{in this GitHub repository}
 Chierichini Simone
 Paialunga Piero
